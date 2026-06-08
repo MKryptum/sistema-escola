@@ -12,7 +12,5 @@ Exemplo:
 
 Lista:
 
-| Murilo Soares| RM: 3303 | feature/murilo-soares |
-
-
+| Murilo Soares| RM: 3303 | feature/murilo-soares | 
 
