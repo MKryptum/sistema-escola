@@ -2,9 +2,9 @@
 
 
 
-Exemplo: 
+Exemplo:
 
-| Ana Souza | RM: 2025001 | feature/ana-souza |
+| Murilo Soares| RM: 3303 | feature/murilo-soares |
 
 
 
@@ -12,5 +12,7 @@ Exemplo:
 
 Lista:
 
-| Ana Souza | RM: 2025001 | feature/ana-souza |
+| Murilo Soares| RM: 3303 | feature/murilo-soares |
+
+
 
